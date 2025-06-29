@@ -17,5 +17,5 @@ I cleaned data, did analysis & visualization, and gained valuable insights and i
 Some of the conclusions include,
 * Miami and Los Angeles are areas to be avoided due to the fatality of their accidents and several accidents have happened in those areas.
 * Airplanes are the best option to invest in even though they still have a high fatality rate in their crashes
-* VMC weather condition is the best condition to travel in for the pilots except that they also have a high fatality rate in their crashes etc.
-[View the dashboard of the analysis](https://public.tableau.com/app/profile/ivy.mbugua/viz/learn-wb-06-28-2025-IM/AircraftAnaylsis?publish=yes)
+* VMC weather condition is the best condition to travel in for the pilots except that they also have a high fatality rate in their crashes etc.<br>
+[View the dashboard on Tableau](https://public.tableau.com/app/profile/ivy.mbugua/viz/learn-wb-06-28-2025-IM/AircraftAnaylsis?publish=yes)
