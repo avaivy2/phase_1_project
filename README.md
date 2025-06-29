@@ -12,7 +12,7 @@ The dataset was downloaded from [kaggle](https://www.kaggle.com/datasets/khsamah
 * total uninjured
 * engine type, among others.
 ## Data Analysis
-I cleaned data, did visualization and gained some information from the data.
+I cleaned data, did analysis & visualization, and gained valuable insights and information from the data.
 ## Conclusion
 Some of the conclusions include,
 * Miami and Los Angeles are areas to be avoided due to the fatality of their accidents and several accidents have happened in those areas.
